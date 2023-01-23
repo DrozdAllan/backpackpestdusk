@@ -1,0 +1,1 @@
+Laravel with Breeze, Backpack, Pest & Dusk
